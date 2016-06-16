@@ -8,6 +8,9 @@
 // I affirm that all code give below was written soley by me, Ally McConnell, and that any help I recieve abhered to the rules
 // of this exam.
 
+//PT -- nice work. One minor flaw in checking a movie's genre.
+//    97/100
+
 #include <string>
 #include <iostream>
 #include "Theater.h"
