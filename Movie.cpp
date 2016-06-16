@@ -9,6 +9,8 @@ string Movie::getTitle() {
 }
 
 string Movie::getGenre() {
+	//PT -- this expression won't quite work the way you want.
+	//  if (genre == "Action" || genre == "Comedy" || genre == "Horror" || genre == "Documentary")
 	if (genre == "Action", "Comedy", "Horror", "Documentary")
 		return genre;
 	else
